@@ -14,5 +14,6 @@ packages:
       - 'moom'
       - 'sourcetree'
       - 'stats'
+      - 'thelowtechguys-cling'
       - 'vanilla'
       - 'windowkeys'
