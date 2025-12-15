@@ -1,0 +1,18 @@
+packages:
+  darwin:
+    brews:
+      - 'eza'
+      - 'git'
+    casks:
+      - '1password'
+      - '1password-cli'
+      - 'betterdisplay'
+      - 'clop'
+      - 'firefox'
+      - 'google-chrome'
+      - 'leader-key'
+      - 'moom'
+      - 'sourcetree'
+      - 'stats'
+      - 'vanilla'
+      - 'windowkeys'
